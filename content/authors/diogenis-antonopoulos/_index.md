@@ -86,6 +86,6 @@ social:
 ## Organizational groups that you belong to (for People widget)
 ##   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Collaborators
+  - Core team
 ---
 Dedicated researcher with a passion for exploring the frontiers of technology through deep learning. Recently, I contributed to projects as a Researcher at the Greek National  Observatory Research Center for three months and graduated with the highest honors, achieving the top grade in my Bachelor’s degree from Harokopeio University. My ultimate aspiration is to become an accomplished researcher, pioneering advancements in the field of artificial intelligence and contributing to meaningful technological advancements that shape our future
